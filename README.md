@@ -3,6 +3,7 @@
 Simple application written to understand how redux works
 
 Dependencies: Redux
+
 Framework used to run: node
 
 Why redux:
