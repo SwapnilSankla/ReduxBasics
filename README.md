@@ -14,7 +14,7 @@ App explores:
 2. Reducers and combineReducers. With rules for using combineReducers. 
 
 Limitations:
-1. Redux does not guarantee immutability. Would need Immutable.js to make state object mutable.
+1. Redux does not guarantee immutability. Would need Immutable.js to make state object immutable.
 
 References:
 http://redux.js.org/
